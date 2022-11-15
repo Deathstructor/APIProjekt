@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIProjekt", "APIProjekt\APIProjekt.csproj", "{CAF7BEFD-4168-430B-8E29-A2D9DE328197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF7BEFD-4168-430B-8E29-A2D9DE328197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF7BEFD-4168-430B-8E29-A2D9DE328197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF7BEFD-4168-430B-8E29-A2D9DE328197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF7BEFD-4168-430B-8E29-A2D9DE328197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
